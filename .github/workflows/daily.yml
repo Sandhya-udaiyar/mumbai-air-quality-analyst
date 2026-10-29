@@ -18,6 +18,17 @@ jobs:
           python-version: "3.11"
       - run: pip install requests pandas matplotlib
       - run: python analyze.py
+      - run: python ai_report.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - name: Save results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add daily.csv chart.png report.md
+          git commit -m "Daily update" || echo "No changes"
+          git push
+      - run: python analyze.py
       - name: Save results
         run: |
           git config user.name "github-actions"
