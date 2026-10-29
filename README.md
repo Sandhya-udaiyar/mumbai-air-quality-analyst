@@ -18,4 +18,4 @@ Python, Pandas, Matplotlib, Open-Meteo API, GitHub Actions
 - Only PM2.5 and PM10 are analysed
 
 ## Next steps
-- Add AI-generated daily report using an LLM API
+ An LLM (Gemini API) writes a short daily report in report.md
