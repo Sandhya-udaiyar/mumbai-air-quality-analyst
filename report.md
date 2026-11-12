@@ -1,14 +1,14 @@
-# Mumbai Air Quality Report (2026-11-10)
+# Mumbai Air Quality Report (2026-11-12)
 
-*Note: Data for dates after today (2026-11-11 to 2026-11-14) are forecast values, not actual readings.*
+*(Note: Readings from 2026-11-13 to 2026-11-16 are forecasts, not actual readings.)*
 
 **1) Most Polluted Day**
-* **2026-11-04** was the most polluted day, recording the highest levels for both PM2.5 (63.9 µg/m³) and PM10 (67.5 µg/m³).
+* **2026-11-14 (Forecast):** PM2.5 = 68.1 µg/m³, PM10 = 73.9 µg/m³.  
+*(Highest actual recorded day: 2026-11-09 with PM2.5 = 56.7 µg/m³, PM10 = 63.3 µg/m³).*
 
 **2) Trend**
-* **Actual (Nov 3–10):** Pollution spiked on Nov 4, dropped to its lowest actual level on Nov 7 (PM2.5: 50.2), then rose again through Nov 9 before a minor drop today (Nov 10).
-* **Forecast (Nov 11–14):** Levels are projected to hit the overall dataset low on Nov 11 (PM2.5: 45.1, PM10: 50.4) before rising continuously through Nov 14 (PM2.5: 59.5, PM10: 63.3).
+Actual readings fluctuated from Nov 5 to Nov 11 before reaching a period low today (Nov 12). The forecast projects a sharp increase peaking on Nov 14, followed by a drop on Nov 16.
 
 **3) Recommendation**
-Limit outdoor activities on days when PM2.5 exceeds 50 µg/m³, particularly during the actual peak (Nov 4) and forecasted rise (Nov 13–14).
-Wear N95 masks outdoors and run air purifiers indoors on high-particulate days to lower daily inhalation exposure.
+Reduce outdoor exposure on forecasted peak days, especially November 14 when pollution is expected to reach maximum levels.  
+Continue monitoring updated daily reports to verify if forecasted increases occur as projected.
